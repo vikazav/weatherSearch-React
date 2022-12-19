@@ -1,0 +1,19 @@
+.app-weather {
+   border: 1px solid #dadde1;
+   border-radius:5px;
+   background-color: #FFFCF6;
+ }
+ .btn-search {
+   width: 45%;
+}
+.btn-search:hover {
+   background-color: #175baf;
+}
+li {
+   color: #000;
+   font-size: 18px;
+   text-decoration: none;
+}
+ul {
+   list-style-type:none;
+}
